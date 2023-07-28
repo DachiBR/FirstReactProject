@@ -2,6 +2,7 @@
 I wanted to study react and the best way to do that is to practice, so i found this video on youtube , which helped me to start with something. Here will be written all the information about the project, code, links and etc.
 
 Youtube: https://www.youtube.com/watch?v=LMagNcngvcU&t=10506s
+
 Figma Design: https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?type=design&node-id=0-1&mode=design&t=MmFenTwZ2VO7aphr-0
 
 To run this code, do this:
