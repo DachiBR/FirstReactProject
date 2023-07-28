@@ -1,4 +1,3 @@
-![6](https://github.com/DachiBR/FirstReactProject/assets/75274431/dc7b658e-e119-456e-9232-28802602875f)
 # Modern UI/UX Website in React JS
 I wanted to study react and the best way to do that is to practice, so i found this video on youtube , which helped me to start with something. Here will be written all the information about the project, code, links and etc.
 
